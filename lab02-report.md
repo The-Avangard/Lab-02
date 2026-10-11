@@ -30,7 +30,7 @@
 - [ ] Файл .gitignore (для рівня 3)
 - [ ] Створення Issues та releases (для рівня 3)
  <img width="429" height="145" alt="image" src="https://github.com/user-attachments/assets/8af4da22-b3f2-41f1-9fd0-1bd350adcbaf" />
-<img width="429" height="145" alt="image" src="https://github.com/user-attachments/assets/bdb60f8e-de12-471e-b1b7-1de6ab363e1b" />
+<img width="133" height="31" alt="image" src="https://github.com/user-attachments/assets/3de2bb10-4c4a-4b4c-9a70-b30b2bba1754" />
 <img width="1507" height="812" alt="image" src="https://github.com/user-attachments/assets/22410767-a058-4e81-baae-bcf4d7ef9d67" />
 
 
