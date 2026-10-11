@@ -29,6 +29,15 @@
 - [ ] Робота з Git у VS Code (для рівня 3)
 - [ ] Файл .gitignore (для рівня 3)
 - [ ] Створення Issues та releases (для рівня 3)
+ <img width="429" height="145" alt="image" src="https://github.com/user-attachments/assets/8af4da22-b3f2-41f1-9fd0-1bd350adcbaf" />
+<img width="429" height="145" alt="image" src="https://github.com/user-attachments/assets/bdb60f8e-de12-471e-b1b7-1de6ab363e1b" />
+<img width="1507" height="812" alt="image" src="https://github.com/user-attachments/assets/22410767-a058-4e81-baae-bcf4d7ef9d67" />
+
+
+
+
+
+
 
 ### Посилання
 
@@ -39,3 +48,4 @@
 Очікувана оцінка: 7-9 балів
 
 Обґрунтування: Наша команда виконала завдання першого та другого рівнів. Ми створили три окремі модулі: `converter.py`, `calculator.py` і `password_generator.py`. Чимало часу пішло на те, щоб правильно налаштувати репозиторій і створити окремі гілки для кожної міні-програми. Ми також створили конфлікт злиття та згодом успішно його вирішили. Крім того, налаштували двофакторну автентифікацію (2FA) та SSH-ключ і використали Pull Request для злиття змін.
+
