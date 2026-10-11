@@ -40,8 +40,7 @@ Lab-02/
 
 ### Генератор паролів (password_generator/password_generator.py)
 
-Генерація випадкових паролів. Модуль у розробці.
-
+Генерація випадкових паролів.
 ## Технологічний стек
 
 Python 3, Git, GitHub, GitHub Desktop, VS Code.
